@@ -1,6 +1,6 @@
 # 🧱 Legally Distinct Tetromino Game™ 🪄✨
 
-Welcome to the **Legally Distinct Tetromino Game™**! Get ready to stack those magical blocks in this fun and engaging puzzle game, perfectly adapted for your mobile browser and installable as a PWA! 📱
+Welcome to the **Legally Distinct Tetromino Game™**! Get ready to stack those magical blocks in this fun and engaging puzzle game, perfectly adapted for your [mobile browser and installable as a PWA!](https://joefromdenver.github.io/Legally-Distinct-Tetromino/) 📱
 
 ## 🎮 How to Play
 
